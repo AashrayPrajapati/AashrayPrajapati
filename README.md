@@ -1,10 +1,12 @@
-  <h1 align="center">Hi, I'm Aashray Prajapati!</h1>
+## Info
+<h1 align="center">Hi, I'm Aashray Prajapati!</h1>
   <h3 align="center">A passionate developer from Nepal.</h3>
 
   🌱 I’m currently learning **your mind**
 
   <br>
 
+## Languages and Tools
   <h3 align="left">Languages and Tools:</h3>
     <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -44,4 +46,5 @@
   
   <br>
 
-![snake gif](https://github.com/AashrayPrajapati/AashrayPrajapati/blob/output/github-contribution-grid-snake.svg)
+## Snake
+![snake svg](https://github.com/AashrayPrajapati/AashrayPrajapati/blob/output/github-contribution-grid-snake.svg)
