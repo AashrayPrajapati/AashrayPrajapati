@@ -1,14 +1,13 @@
-# Info
 <h1 align="center">Hi, I'm Aashray Prajapati!</h1>
 <h3 align="center">A passionate developer from Nepal.</h3>
 
+<br>
 <br>
 
 🌱 I’m currently learning **Flutter**
 
 <br>
 
-## Languages and Tools
   <h3 align="left">Languages and Tools:</h3>
     <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -48,5 +47,4 @@
   
   <br>
 
-## Snake
 ![snake svg](https://github.com/AashrayPrajapati/AashrayPrajapati/blob/output/github-contribution-grid-snake.svg)
