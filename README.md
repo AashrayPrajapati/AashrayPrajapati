@@ -41,3 +41,7 @@
         width="40" height="40">
     </a>
   </p>
+  
+  <br>
+  
+  ![Snake animation](https://github.com/AashrayPrajapati/AashrayPrajapati/blob/output/github-contribution-grid-snake.svg)
