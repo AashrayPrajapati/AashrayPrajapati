@@ -4,7 +4,7 @@
 
 <br>
 
-<p align="center">🌱 I’m currently learning **Flutter** </p>
+<p align="center">🌱 I’m currently learning <b>Flutter</b> </p>
 
 <br>
 
