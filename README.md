@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Aashray Prajapati</title>
-
   <style>
     body {
       background-color: black;
@@ -19,9 +10,7 @@
       padding-right: 10px;
     }
   </style>
-</head>
 
-<body>
   <h1 align="center">Hi 👋, I'm Aashray Prajapati</h1>
   <h3 align="center">A passionate developer from Nepal.</h3>
 
@@ -46,8 +35,3 @@
         src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">
   </div>
   </p>
-
-  </div>
-</body>
-
-</html>
