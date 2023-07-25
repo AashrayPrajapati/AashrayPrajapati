@@ -1,4 +1,4 @@
-<h1 align="center">**Aashray Prajapati**!</h1>
+<h1 align="center">Aashray Prajapati</h1>
 <h3 align="center">A passionate developer</h3>
 
 <br>
