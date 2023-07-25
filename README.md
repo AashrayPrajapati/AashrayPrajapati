@@ -4,7 +4,7 @@
 <br>
 <br>
 
-🌱 I’m currently learning **Flutter**
+🌱 I’m currently **learning**
 
 <br>
 
